@@ -1,5 +1,10 @@
 # ClothTracker 👕
 
+
+## 🚀 Quick Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FHaseeb2949J%2FCloth-Inventory&env=NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY&envDescription=Supabase%20configuration%20required&project-name=clothtracker)
+
 A secure cloth inventory management system with cloud storage and email verification.
 
 ## ✨ Features
